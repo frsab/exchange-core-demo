@@ -5,6 +5,7 @@
 **.class
 *.class
 target
+target/classes/**
 target/**
 ./target/
 ./target/*
