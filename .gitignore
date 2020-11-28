@@ -2,9 +2,9 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # ignore target folder
-target/**
-target/
-target/*
+./target/**
+./target/
+./target/*
 
 # User-specific stuff
 .idea/**
